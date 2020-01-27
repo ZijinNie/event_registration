@@ -1,12 +1,12 @@
-#Event Registration System
+Event Registration System
 
 The repository stores the source code for a event registration system. 
 
 Technology used: 
-Backend: Java, Spring Boot
-Frontend: JavaScript, Vue.js
-Build: Gradle
-Deployment: Heroku
+Backend: Java, Spring Boot ; 
+Frontend: JavaScript, Vue.js ; 
+Build: Gradle ; 
+Deployment: Heroku ; 
 
 Feature: 
 
